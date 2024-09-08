@@ -25,7 +25,6 @@ This is an intermediate full stack software development project that requires so
 
 I've carefully divided the project into sections to ensure that you can easily select the phase that is important to you in case you do not wish to code the full application.
 
-You can download the full repository on [My Github here](https://github.com/stephensanwo/fullstack-ai-chatbot).
 
 ### Application Architecture <a name="application-architecture"></a>
 
@@ -33,7 +32,6 @@ Sketching out a solution architecture gives you a high-level overview of your ap
 
 I have drawn up a simple architecture below using [draw.io](http://draw.io):
 
-![full-stack-chatbot-architecture.svg](https://github.com/stephensanwo/fullstack-ai-chatbot/blob/master/docs/full-stack-chatbot-architecture.drawio.svg)
 
 Let's go over the various parts of the architecture in more detail:
 
