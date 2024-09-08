@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>Logo Page</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="flex items-center justify-center min-h-screen bg-white">
+    <div class="text-black text-9xl font-bold">
+        <span class="font-serif">J</span>
+        <span class="font-serif">R</span>
+    </div>
+</body>
+</html>
