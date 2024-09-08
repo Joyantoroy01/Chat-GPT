@@ -60,4 +60,5 @@ To send messages between the client and server in real-time, we need to open a s
 We will be using FastAPI for the chat server, as it provides a fast and modern Python server for our use. [Check out the FastAPI documentation](https://fastapi.tiangolo.com/advanced/websockets/?h=web)) to learn more about WebSockets.
 
 Created: June 05, 2024
+
 Author: Joyanto roy 
